@@ -1,0 +1,1 @@
+include ':app', ':GuaGuaLe', ':ListViewCheckBox', ':ListViewGridView', ':SpannableStringDome', ':OkHttp', ':MyCircle', ':HorizontalscrollviewViewpagerListView', ':Fanyongxing20161107', ':HomeWork', ':RecyclerViewDome', ':test', ':MyText', ':Animation', ':ValueAnimation'

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Animation/Animation.iml" filepath="$PROJECT_DIR$/Animation/Animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fanyongxing20161107/Fanyongxing20161107.iml" filepath="$PROJECT_DIR$/Fanyongxing20161107/Fanyongxing20161107.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuaGuaLe/GuaGuaLe.iml" filepath="$PROJECT_DIR$/GuaGuaLe/GuaGuaLe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork/HomeWork.iml" filepath="$PROJECT_DIR$/HomeWork/HomeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HorizontalscrollviewViewpagerListView/HorizontalscrollviewViewpagerListView.iml" filepath="$PROJECT_DIR$/HorizontalscrollviewViewpagerListView/HorizontalscrollviewViewpagerListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListViewCheckBox/ListViewCheckBox.iml" filepath="$PROJECT_DIR$/ListViewCheckBox/ListViewCheckBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListViewGridView/ListViewGridView.iml" filepath="$PROJECT_DIR$/ListViewGridView/ListViewGridView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyCircle/MyCircle.iml" filepath="$PROJECT_DIR$/MyCircle/MyCircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyText/MyText.iml" filepath="$PROJECT_DIR$/MyText/MyText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OkHttp/OkHttp.iml" filepath="$PROJECT_DIR$/OkHttp/OkHttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewDome/RecyclerViewDome.iml" filepath="$PROJECT_DIR$/RecyclerViewDome/RecyclerViewDome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpannableStringDome/SpannableStringDome.iml" filepath="$PROJECT_DIR$/SpannableStringDome/SpannableStringDome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValueAnimation/ValueAnimation.iml" filepath="$PROJECT_DIR$/ValueAnimation/ValueAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
